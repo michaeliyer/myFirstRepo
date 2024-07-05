@@ -1,0 +1,28 @@
+
+
+body {
+    background-color: steelblue;
+    color: rgb(42, 205, 72);
+    margin: 0; 
+    padding: 0; 
+    font-family: Arial, sans-serif; 
+}
+
+.button-style {
+    display: block; 
+    margin: 10px;
+    padding: 10px;
+    cursor: pointer; 
+    font-size: 16px; 
+}
+
+p {
+    font-family: "Archivo Black", sans-serif;
+    margin: 10px;
+}
+
+.hidden {
+    display: none; 
+}
+
+
